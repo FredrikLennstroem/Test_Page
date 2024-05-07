@@ -2,4 +2,4 @@
 
 This is a test page.
 
-![Image](/img/Fredi_Stollen.jpg)
+![Image](/docs/img/Fredi_Stollen.jpg)
